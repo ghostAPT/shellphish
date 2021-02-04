@@ -1,8 +1,9 @@
 # ShellPhish v1.8
 ## Original Author: github.com/thelinuxchoice
 ## Original repo removed by author.
+## This project recreated by @gh0stAPT
 ## Twitter: www.twitter.com/gh0stAPT
-### Don't copy this code without giving me the credits :) 
+### Pls seek permission before copying code
 
 
 Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Pinterest +1 customizable
