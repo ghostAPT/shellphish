@@ -1,8 +1,8 @@
 # ShellPhish v1.8
 ## Original Author: github.com/thelinuxchoice
 ## Original repo removed by author.
-## This project recreated by @gh0stAPT
-## Twitter: www.twitter.com/gh0stAPT
+## This project recreated by @roninAPT
+## Twitter: www.twitter.com/roninAPT
 ### Pls seek permission before copying code
 
 
